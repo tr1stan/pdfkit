@@ -57,7 +57,7 @@ PDFKit also includes some helpers that make defining common shapes much
 easier. Here is a list of the helpers.
 
 * `rect(x, y, width, height)`
-* `roundedRect(x, y, width, height, cornerRadius)`
+* `roundedRect(x, y, width, height, cornerRadius, cornersApplied)`
 * `ellipse(centerX, centerY, radiusX, radiusY = radiusX)`
 * `circle(centerX, centerY, radius)`
 * `polygon(points...)`
